@@ -1,0 +1,30 @@
+<jwrapper>
+<BuildOutputFolder>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JWrapperBuild</BuildOutputFolder>
+<BundleName>SQLLite Archiver</BundleName>
+<SplashPNG>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\splash.png</SplashPNG>
+<BundleLogoPNG>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\logo.png</BundleLogoPNG>
+<InstallType>CurrentUser</InstallType>
+<App>
+  <Name>SQLLite Archiver</Name>
+  <LogoPNG>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\logo.png</LogoPNG>
+  <MainClass>com.trw.sqllitearchiver.SQLLiteExporter</MainClass>
+</App>
+<SupportedLanguages>en</SupportedLanguages>
+<Windows32JRE>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JREs\jre1.8.0_131-windows32</Windows32JRE>
+<Windows64JRE>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JREs\jre1.8.0_131-windows64</Windows64JRE>
+<Linux32JRE>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JREs\jre1.8.0_131-linux32</Linux32JRE>
+<Linux64JRE>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JREs\jre1.8.0_131-linux64</Linux64JRE>
+<Mac64JRE>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\JREs\jre1.8.0_131-macos</Mac64JRE>
+<SkipLinuxARM32>true</SkipLinuxARM32>
+<NoStripJREs>true</NoStripJREs>
+<WindowsElevation>None</WindowsElevation>
+<WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+<File classpath='yes'>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\libs\guava-22.0.jar</File>
+<File classpath='yes'>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\libs\sqlite-jdbc-3.19.3.jar</File>
+<File classpath='yes'>C:\Users\PortuesD.ADTRW\Documents\Java Workspace\SQLLite-Archiver\SQLLite-Archiver.jar</File>
+<JvmOptions>
+</JvmOptions>
+<!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>

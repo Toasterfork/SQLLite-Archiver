@@ -2,3 +2,13 @@
 .project
 *.class
 bin/
+JREs/
+JWrapperBuild/
+wrappers/
+jwrapperlib/
+jwrapper.tmp
+jwrapper.log
+JWrapperLaunchTemp
+SQLLite-Archiver.jar
+jwrapper-00049034758.jar
+LastExractedJwrapperVersion
